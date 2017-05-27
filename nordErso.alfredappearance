@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#EBCB86FF",
+        "font" : "Roboto Slab Light",
+        "color" : "#4B556AFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#EBCB86FF",
+        "font" : "Roboto Slab Light",
+        "color" : "#3A4152FF"
+      },
+      "backgroundSelected" : "#3A4152FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#D7DDE9FF",
+        "font" : "Roboto Slab Light",
+        "color" : "#D7DDE9FF"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 1,
+      "background" : "#ABABAB00",
+      "spacing" : 0,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#000000FF",
+        "font" : "Roboto Slab Light",
+        "color" : "#D7DDE9FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#2D3340FF",
+      "paddingHorizontal" : 0,
+      "width" : 800,
+      "borderPadding" : 0,
+      "borderColor" : "#00000000",
+      "blur" : 30,
+      "roundness" : 8,
+      "paddingVertical" : 0
+    },
+    "credit" : "@Caiobep",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#561A72FF",
+      "thickness" : 1
+    },
+    "name" : "nordErso"
+  }
+}
